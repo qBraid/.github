@@ -20,7 +20,7 @@ Want to try  [qBraid](https://account.qbraid.com/) for free?
 
 
 * 🛰️ Want to submit a feature request? [Open a feature request](https://github.com/qbraid/community/issues/new?assignees=&labels=&template=feature_request.md&title=)
-* 🐛 Did you run into a bug? [Open a bug report](https://github.com/qbraid/community/issues/new?assignees=&labels=bug&template=bug_report.yml)
+* 🐛 Did you run into a bug? [Open a bug report](https://github.com/qbraid/community/issues/new?assignees=&labels=bug&template=bug_report.md)
 * 💃 Feeling social? [Join our discord community](https://discord.gg/gwBebaBZZX)
 
 #### Recent blog posts
