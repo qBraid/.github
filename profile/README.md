@@ -17,3 +17,5 @@ Want to try  [qBraid](https://account.qbraid.com/) for free?
 
 
 [Read more blog posts &rarr;](https://account.qbraid.com/blogs)
+
+[Open roles &rarr;](https://qbraid.com/careers)
