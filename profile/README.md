@@ -25,3 +25,5 @@ GPUs are coming to qBraid! This high-performance Lab instance will come pre-conf
 [Read more blog posts &rarr;](https://account.qbraid.com/blogs)
 
 [Open roles &rarr;](https://qbraid.com/careers)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/qbraid_official?style=social)](https://twitter.com/qbraid_official)
