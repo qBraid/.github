@@ -2,13 +2,13 @@
 qBraid is a leading cloud platform for quantum software development.
 
 - 🏡 Check out our [Homepage](https://qbraid.com)
+- 📘 Read the [Docs](https://docs.qbraid.com/en/latest/) on [Lab](https://docs.qbraid.com/en/latest/lab/overview.html), the [SDK](https://docs.qbraid.com/en/latest/sdk/overview.html), and [CLI](https://docs.qbraid.com/en/latest/cli/qbraid.html).
+- 🐍 [Install](https://pypi.org/project/qbraid/) the qBraid-SDK, now [open-source](https://github.com/qBraid/qBraid)!
 
-- 📘 Read our [Docs](https://qbraid-qbraid.readthedocs-hosted.com/en/latest/index.html) on SDK, Lab, and our CLI.
-
-Want to try  [qBraid](https://account.qbraid.com/) for free?
+Try qBraid for free: https://account.qbraid.com/
 
 
-* 🛰️ Want to submit a feature request? [Open a feature request](https://github.com/qbraid/community/issues/new?assignees=&labels=&template=feature_request.md&title=)
+* 🛰️ Have a great idea? [Open a feature request](https://github.com/qbraid/community/issues/new?assignees=&labels=&template=feature_request.md&title=)
 * 🐛 Did you run into a bug? [Open a bug report](https://github.com/qbraid/community/issues/new?assignees=&labels=bug&template=bug_report.md)
 * 💃 Feeling social? [Join our discord community](https://discord.gg/gwBebaBZZX)
 * 👩🏼‍💻 Want your project featured as an environment on qBraid? [Fill out new environment request form](https://forms.gle/a4v7Kdn7G7bs9jYD8)
