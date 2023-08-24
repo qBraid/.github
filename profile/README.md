@@ -1,5 +1,5 @@
 # 👋 Welcome to qBraid!
-qBraid is the cloud platform for quantum software development.
+qBraid is a leading cloud platform for quantum software development.
 
 - 🏡 Check out our [Homepage](https://qbraid.com)
 
