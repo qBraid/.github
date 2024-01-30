@@ -2,10 +2,11 @@
 qBraid is a leading cloud platform for quantum software development.
 
 - 🏡 Check out our [Homepage](https://qbraid.com)
-- 📘 Read the [Docs](https://docs.qbraid.com/en/latest/) on [Lab](https://docs.qbraid.com/en/latest/lab/overview.html), the [SDK](https://docs.qbraid.com/en/latest/sdk/overview.html), and [CLI](https://docs.qbraid.com/en/latest/cli/qbraid.html).
+- 📘 Read the [Docs](https://docs.qbraid.com/en/latest/) on [Lab](https://docs.qbraid.com/projects/lab/en/latest/lab/overview.html), the [SDK](https://docs.qbraid.com/en/latest/sdk/overview.html), and the [CLI](https://docs.qbraid.com/projects/cli/en/latest/guide/overview.html).
 - 🐍 [Install](https://pypi.org/project/qbraid/) the qBraid-SDK, now [open-source](https://github.com/qBraid/qBraid)!
+- 🐣 [Contribute](https://github.com/qBraid/qbraid-qir) the new and fast-growing [qBraid-QIR](https://pypi.org/project/qbraid-qir/) project!
 
-Try qBraid for free: https://account.qbraid.com/
+Try qBraid for *free*: https://account.qbraid.com/
 
 
 * 🛰️ Have a great idea? [Open a feature request](https://github.com/qbraid/community/issues/new?assignees=&labels=&template=feature_request.md&title=)
